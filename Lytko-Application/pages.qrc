@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pages/addDevice.qml</file>
+        <file>pages/main.qml</file>
+        <file>pages/mqtt.qml</file>
+        <file>pages/network.qml</file>
+        <file>pages/rooms.qml</file>
+        <file>pages/settings.qml</file>
+        <file>pages/thermostatSettings.qml</file>
+        <file>pages/update.qml</file>
+        <file>pages/wifi.qml</file>
+        <file>pages/user.qml</file>
+        <file>pages/roomsSettings.qml</file>
+    </qresource>
+</RCC>

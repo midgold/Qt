@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/images"/>
+    <qresource prefix="/js"/>
+    <qresource prefix="/pages"/>
+    <qresource prefix="/components"/>
+</RCC>
